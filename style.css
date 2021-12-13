@@ -1,5 +1,6 @@
 body {
   background-color: #eee2df;
+  text-align: center;
 }
 
 /* I struggled quite a bit with the sizing on the header. I know that there are more efficient ways to code this, but I couldn't quite get it. */

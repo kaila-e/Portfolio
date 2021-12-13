@@ -1,3 +1,3 @@
 # Portfolio
 
-A little introduction to me, Kaila Edney.
+An introduction to Kaila Edney.
